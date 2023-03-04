@@ -45,11 +45,14 @@ cargo install --path .
 
 **To use Alpha, simply type alpha followed by the name of the Greek letter you want to type. For example, to type the Greek letter alpha (α), you can type:**
 
-```
+```bash
 alpha alpha
-```
+# kinda confusing for that letter .-.
 
-kinda confusing for that letter .-.
+alpha gamma
+
+alpha phi
+```
 
 **If you want to get available letters as a table simply type this:**
 ```bash
