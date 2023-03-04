@@ -6,9 +6,13 @@ Alpha is a simple command line tool that allows you to quickly access Greek alph
 
 ## Arch Linux:
 
-Alpha is available in the AUR, so you can install it using your favorite AUR helper.
+You can use PKGCONFIG to install it easily on arch linux.
 ```bash
-aura -A alpha
+git clone https://github.com/username/alpha.git
+
+cd alpha
+
+makepkg -si
 ```
 
 ## Other platforms:
